@@ -1,0 +1,11 @@
+{
+  "name": "handy",
+  "version": "1.0.0",
+  "description": "A npm package to keep the handy information handy",
+  "main": "handy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nasim",
+  "license": "MIT"
+}
