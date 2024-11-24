@@ -16,7 +16,7 @@
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/handy.git
+    git clone https://github.com/nasim-coder/handy.git
     cd handy
     ```
 
