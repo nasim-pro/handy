@@ -1,6 +1,6 @@
 # Handy Utility App
 
-`handy` is a simple command-line utility for managing items stored in a JSON file. You can add, remove, and search for items with ease.
+`handy` is a simple command-line utility for managing items stored in a JSON file. You can add, remove, and search for items with ease in a terminal.
 
 ---
 
