@@ -17,7 +17,6 @@
 1. Clone this repository:
     ```bash
     curl -fsSL https://raw.githubusercontent.com/nasim-pro/handy/main/install.sh | bash
-    cd handy
     ```
 
 2. Make the script executable:
