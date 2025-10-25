@@ -28,3 +28,5 @@
 Add a key-value pair to the storage:
 ```bash
 handy add <name> <value>
+```
+---
