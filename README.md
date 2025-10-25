@@ -1,4 +1,5 @@
 # Handy Utility App
+curl -fsSL https://raw.githubusercontent.com/nasim-coder/handy/main/install.sh | bash
 
 `handy` is a simple command-line utility for managing items stored in a JSON file. You can add, remove, and search for items with ease in a terminal.
 

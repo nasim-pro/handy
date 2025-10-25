@@ -1,0 +1,18 @@
+
+{
+  "tasks": {
+    "start": "deno run --allow-read --allow-write src/handy.ts",
+    "build": "deno compile -A --output handy src/handy.ts",
+    "install": "deno install -A -f --name=handy src/handy.ts"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1"
+  },
+  "fmt": {
+    "useTabs": false,
+    "lineWidth": 100
+  },
+  "compilerOptions": {
+    "strict": true
+  }
+}
