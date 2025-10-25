@@ -7,7 +7,7 @@ set -e
 echo "🚀 Installing Handy CLI..."
 
 # Determine latest release URL
-HANDY_URL="https://github.com/nasim-coder/handy/releases/latest/download/handy-linux"
+HANDY_URL="https://github.com/nasim-pro/handy/releases/latest/download/handy-linux-1.0.0"
 
 # Download the binary
 echo "Downloading Handy binary..."
