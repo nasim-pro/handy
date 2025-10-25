@@ -19,15 +19,6 @@
     curl -fsSL https://raw.githubusercontent.com/nasim-pro/handy/main/install.sh | bash
     ```
 
-2. Make the script executable:
-    ```bash
-    chmod +x handy.js
-    ```
-
-3. Optionally, add it to your PATH for easy access:
-    ```bash
-    sudo ln -s $(pwd)/handy.js /usr/local/bin/handy
-    ```
 
 ---
 
