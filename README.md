@@ -14,7 +14,7 @@
 
 ## Installation
 
-1. Clone this repository:
+1. Copy paste this in your linux terminal:
     ```bash
     curl -fsSL https://raw.githubusercontent.com/nasim-pro/handy/main/install.sh | bash
     ```
